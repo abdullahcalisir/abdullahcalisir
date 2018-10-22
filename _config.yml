@@ -1,0 +1,18 @@
+collections:
+  cities:
+    output: true
+
+
+markdown : kramdown
+
+
+defaults:
+  - scope:
+      path: ""
+      type: "cities"
+    values:
+      layout: "city"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

@@ -1,0 +1,317 @@
+[
+  {
+    "destinationId" : 1,
+    "destinationName": "Istanbul",
+    "country": "Turkey",
+    "contenent" : "Europe",
+    "photo": [
+      {
+        "title" : "istanbul-image",
+        "url" : "../assets/images/Istanbul/istanbul.jpg"
+      },
+      {
+        "title" : "istanbul1-image",
+        "url" : "../assets/images/Istanbul/istanbul1.jpg"
+      },
+      {
+        "title" : "istanbul2-image",
+        "url" : "../assets/images/Istanbul/istanbul2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/Istanbul/istanbul.jpg",
+      "photoUrl1" : "../assets/images/Istanbul/istanbul1.jpg",
+      "photoUrl2" : "../assets/images/Istanbul/istanbul2.jpg"
+    },
+    "description": "Istanbul is a major city in Turkey that straddles Europe and Asia across the Bosphorus Strait. Its Old City reflects cultural influences of the many empires that once ruled here. In the Sultanahmet district, the open-air, Roman-era Hippodrome was for centuries the site of chariot races, and Egyptian obelisks also remain. The iconic Byzantine Hagia Sophia features a soaring 6th-century dome and rare Christian mosaics.",
+    "location" : "loc",
+    "time-zone" : "UTC+3",
+    "weather" : "Cloudy",
+    "population" : "15.03 million",
+    "touristicPlaces" : {
+      "name" : "Hagia Sophia",
+      "name2" : "Taksim Square",
+      "name3" : "Bosporus"
+    }
+  },
+  {
+    "destinationId" : 2,
+    "destinationName": "Prague",
+    "country": "Czech Republic",
+    "contenent" : "Europe",
+    "photo": [
+      {
+        "title" : "prague-image",
+        "url" : "../assets/images/Prague/prague.jpg"
+      },
+      {
+        "title" : "prague1-image",
+        "url" : "../assets/images/Prague/prague1.jpg"
+      },
+      {
+        "title" : "prague2-image",
+        "url" : "../assets/images/Prague/prague2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/Prague/prague.jpg",
+      "photoUrl1" : "../assets/images/Prague/prague1.jpg",
+      "photoUrl2" : "../assets/images/Prague/prague2.jpg"
+    },
+    "description": "Prague, capital city of the Czech Republic, is bisected by the Vltava River. Nicknamed “the City of a Hundred Spires,” it's known for its Old Town Square, the heart of its historic core, with colorful baroque buildings, Gothic churches and the medieval Astronomical Clock, which gives an animated hourly show. Completed in 1402, pedestrian Charles Bridge is lined with statues of Catholic saints.",
+    "location" : "loc",
+    "time-zone" : "UTC+2",
+    "weather" : "Cloudy",
+    "population" : "1.281 million",
+    "touristicPlaces" : {
+      "name" : "Prague Castle",
+      "name2" : "Charles Bridge",
+      "name3" : "Old Town"
+    }
+  },
+  {
+    "destinationId" : 3,
+    "destinationName": "Cairo",
+    "country": "Egypt",
+    "contenent" : "Africa",
+    "photo": [
+      {
+        "title" : "cairo-image",
+        "url" : "../assets/images/Egypt/cairo.jpg"
+      },
+      {
+        "title" : "cairo1-image",
+        "url" : "../assets/images/Egypt/cairo1.jpg"
+      },
+      {
+        "title" : "cairo2-image",
+        "url" : "../assets/images/Egypt/cairo2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/Cairo/cairo.jpg",
+      "photoUrl1" : "../assets/images/Cairo/cairo1.jpg",
+      "photoUrl2" : "../assets/images/Cairo/cairo2.jpg"
+    },
+    "description": "Cairo, Egypt’s sprawling capital, is set on the Nile River. At its heart is Tahrir Square and the vast Egyptian Museum, a trove of antiquities including royal mummies and gilded King Tutankhamun artifacts. Nearby, Giza is the site of the iconic pyramids and Great Sphinx, dating to the 26th century BC. In Gezira Island’s leafy Zamalek district, 187m Cairo Tower affords panoramic city views.",
+    "location" : "loc",
+    "time-zone" : "UTC+2",
+    "weather" : "sunny",
+    "population" : "9.153 million",
+    "touristicPlaces" : {
+      "name" : "Giza pyramid complex",
+      "name2" : "Khan el-Khalili",
+      "name3" : "Cairo Opera House"
+    }
+  },
+  {
+    "destinationId" : 4,
+    "destinationName": "Beijing",
+    "country": "China",
+    "contenent" : "Asia",
+    "photo": [
+      {
+        "title" : "beijing-image",
+        "url" : "../assets/images/Beijing/beijing.jpg"
+      },
+      {
+        "title" : "beijing1-image",
+        "url" : "../assets/images/Beijing/beijing1.jpg"
+      },
+      {
+        "title" : "beijing2-image",
+        "url" : "../assets/images/Beijing/beijing2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/Beijing/beijing.jpg",
+      "photoUrl1" : "../assets/images/Beijing/beijing1.jpg",
+      "photoUrl2" : "../assets/images/Beijing/beijing2.jpg"
+    },
+    "description": "Beijing, China’s massive capital, has history stretching back 3 millennia. Yet it’s known as much for its modern architecture as its ancient sites such as the grand Forbidden City complex, the imperial palace during the Ming and Qing dynasties. Nearby, the massive Tiananmen Square pedestrian plaza is the site of Mao Zedong’s mausoleum and the National Museum of China, displaying a vast collection of cultural relics.",
+    "location" : "loc",
+    "time-zone" : "UTC+8",
+    "weather" : "Cloudy",
+    "population" : "21.71 million",
+    "touristicPlaces" : {
+      "name" : "Great Wall of China",
+      "name2" : "Forbidden City",
+      "name3" : "Temple of Heaven"
+    }
+  },
+  {
+    "destinationId" : 5,
+    "destinationName": "Washington, D.C.",
+    "country": "United States of America",
+    "contenent" : "North America",
+    "photo": [
+      {
+        "title" : "DC-image",
+        "url" : "../assets/images/DC/dc.jpg"
+      },
+      {
+        "title" : "DC1-image",
+        "url" : "../assets/images/DC/dc1.jpg"
+      },
+      {
+        "title" : "DC2-image",
+        "url" : "../assets/images/DC/dc2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/DC/dc.jpg",
+      "photoUrl1" : "../assets/images/DC/dc1.jpg",
+      "photoUrl2" : "../assets/images/DC/dc2.jpg"
+    },
+    "description": "Washington, DC, the U.S. capital, is a compact city on the Potomac River, bordering the states of Maryland and Virginia. It’s defined by imposing neoclassical monuments and buildings – including the iconic ones that house the federal government’s 3 branches: the Capitol, White House and Supreme Court. It's also home to iconic museums and performing-arts venues such as the Kennedy Center.",
+    "location" : "loc",
+    "time-zone" : "UTC-5",
+    "weather" : "Cloudy",
+    "population" : "6.1 million",
+    "touristicPlaces" : {
+      "name" : "White House",
+      "name2" : "Lincoln Memorial",
+      "name3" : "National Zoological Park"
+    }
+  },
+  {
+    "destinationId" : 6,
+    "destinationName": "Buenos Aires",
+    "country": "Argentina",
+    "contenent" : "South America",
+    "photo": [
+      {
+        "title" : "buenosaires-image",
+        "url" : "../assets/images/BuenosAires/buenosaires.jpg"
+      },
+      {
+        "title" : "buenosaires1-image",
+        "url" : "../assets/images/BuenosAires/buenosaires1.jpg"
+      },
+      {
+        "title" : "buenosaires2-image",
+        "url" : "../assets/images/BuenosAires/buenosaires2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/BuenosAires/buenosaires.jpg",
+      "photoUrl1" : "../assets/images/BuenosAires/buenosaires1.jpg",
+      "photoUrl2" : "../assets/images/BuenosAires/buenosaires2.jpg"
+    },
+    "description": "Buenos Aires is Argentina’s big, cosmopolitan capital city. Its center is the Plaza de Mayo, lined with stately 19th-century buildings including Casa Rosada, the iconic, balconied presidential palace. Other major attractions include Teatro Colón, a grand 1908 opera house with nearly 2,500 seats, and the modern MALBA museum, displaying Latin American art.",
+    "location" : "loc",
+    "time-zone" : "UTC-3",
+    "weather" : "Rainy",
+    "population" : "2.89 million",
+    "touristicPlaces" : {
+      "name" : "Casa Rosada",
+      "name2" : "Plaza de Mayo",
+      "name3" : "Plaza San Martín"
+    }
+  },
+  {
+    "destinationId" : 7,
+    "destinationName": "Moscow",
+    "country": "Russia",
+    "contenent" : "Europe",
+    "photo": [
+      {
+        "title" : "moscow-image",
+        "url" : "../assets/images/Moscow/moscow.jpg"
+      },
+      {
+        "title" : "moscow1-image",
+        "url" : "../assets/images/Moscow/moscow1.jpg"
+      },
+      {
+        "title" : "moscow2-image",
+        "url" : "../assets/images/Moscow/moscow2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/Moscow/moscow.jpg",
+      "photoUrl1" : "../assets/images/Moscow/moscow1.jpg",
+      "photoUrl2" : "../assets/images/Moscow/moscow2.jpg"
+    },
+    "description": "Moscow, on the Moskva River in western Russia, is the nation’s cosmopolitan capital. In its historic core is the Kremlin, a complex that’s home to the president and tsarist treasures in the Armoury. Outside its walls is Red Square, Russia's symbolic center. It's home to Lenin’s Mausoleum, the State Historical Museum's comprehensive collection and St. Basil’s Cathedral, known for its colorful, onion-shaped domes.",
+    "location" : "loc",
+    "time-zone" : "UTC+3",
+    "weather" : "Cloudy",
+    "population" : "11.92",
+    "touristicPlaces" : {
+      "name" : "Saint Basil's Cathedral",
+      "name2" : "Tretyakov Gallery",
+      "name3" : "Sparrow Hills"
+    }
+  },
+  {
+    "destinationId" : 8,
+    "destinationName": "Cape Town",
+    "country": "South Africa",
+    "contenent" : "Africa",
+    "photo": [
+      {
+        "title" : "capetown-image",
+        "url" : "../assets/images/CapeTown/capetown.jpg"
+      },
+      {
+        "title" : "capetown1-image",
+        "url" : "../assets/images/CapeTown/capetown1.jpg"
+      },
+      {
+        "title" : "capetown2-image",
+        "url" : "../assets/images/CapeTown/capetown2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/CapeTown/capetown.jpg",
+      "photoUrl1" : "../assets/images/CapeTown/capetown1.jpg",
+      "photoUrl2" : "../assets/images/CapeTown/capetown2.jpg"
+    },
+    "description": "Cape Town is a port city on South Africa’s southwest coast, on a peninsula beneath the imposing Table Mountain. Slowly rotating cable cars climb to the mountain’s flat top, from which there are sweeping views of the city, the busy harbor and boats heading for Robben Island, the notorious prison that once held Nelson Mandela, which is now a living museum.",
+    "location" : "loc",
+    "time-zone" : "UTC+2",
+    "weather" : "Sunny",
+    "population" : 433.688,
+    "touristicPlaces" : {
+      "name" : "Kirstenbosch National Botanical Garden",
+      "name2" : "Cape Point",
+      "name3" : "Lion's Head"
+    }
+  },
+  {
+    "destinationId" : 9,
+    "destinationName": "Sydney",
+    "country": "Australia",
+    "contenent" : "Australia",
+    "photo": [
+      {
+        "title" : "sydney-image",
+        "url" : "../assets/images/Sydney/sydney.jpg"
+      },
+      {
+        "title" : "sydney1-image",
+        "url" : "../assets/images/Sydney/sydney1.jpg"
+      },
+      {
+        "title" : "sydney2-image",
+        "url" : "../assets/images/Sydney/sydney2.jpg"
+      }
+    ],
+    "photo-old": {
+      "photoUrl" : "../assets/images/Sydney/sydney.jpg",
+      "photoUrl1" : "../assets/images/Sydney/sydney1.jpeg",
+      "photoUrl2" : "../assets/images/Sydney/sydney2.jpeg"
+    },
+    "description": "Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design. Massive Darling Harbour and the smaller Circular Quay port are hubs of waterside life, with the arched Harbour Bridge and esteemed Royal Botanic Garden nearby. Sydney Tower’s outdoor platform, the Skywalk, offers 360-degree views of the city and suburbs.",
+    "location" : "loc",
+    "time-zone" : "UTC+10",
+    "weather" : "Cloudy",
+    "population" : "5.1 million",
+    "touristicPlaces" : {
+      "name" : "Sydney Opera House",
+      "name2" : "Sydney Aquarium",
+      "name3" : "Wild Life Sydney"
+    }
+  }
+]

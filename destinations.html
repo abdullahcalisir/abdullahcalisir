@@ -1,0 +1,24 @@
+---
+title: Destination
+---
+
+<div class="container-fluid">
+      {% for city in site.cities %}
+        <div class="col-12 col-lg-6" style="float: left">
+          <a href="{{ city.url }}">
+            <div class="tile">
+                {%for item in site.data.destinations%}
+                    {%if city.destinationName == item.destinationName%}
+                        <img src = "{{item.photo-old.photoUrl}}"/>
+                        <div class="text">
+                          <h1>{{city.destinationName}}</h1>
+                          <h2 class="animate-text">{{city.country}}</h2>
+                          <p class="animate-text">Bacon ipsum dolor amet pork belly tri-tip turducken, pancetta bresaola pork chicken meatloaf. Flank sirloin strip steak prosciutto kevin turducken. </p>
+                        </div>
+                    {%endif%}
+                {%endfor%}
+            </div>
+          </a>
+        </div>
+      {% endfor %}
+</div>

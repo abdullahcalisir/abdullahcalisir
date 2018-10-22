@@ -1,0 +1,14 @@
+[
+  {
+    name : Home,
+    link : /
+  },
+  {
+    name : Destination,
+    link : /destinations.html
+  },
+  {
+    name : About,
+    link : /about.html
+  }
+]
